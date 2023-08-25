@@ -54,7 +54,24 @@ Looking forward to learning, sharing, and growing with you all! 🚀
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
+  <!-- ... Other tools -->
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pandas-dev/pandas-dev-icon.svg" alt="Pandas" width="40" height="40"/>
+  <!-- ... More tools -->
 </p>
+
+<h3 align="left">Technical Stack:</h3>
+<p align="left">
+  Python, R, Pandas, Numpy, Scikit-learn, XGBoost, Azure, SQL, Matplotlib, Seaborn, Keras,
+  TensorFlow, PyTorch, Spacy, NLTK.
+</p>
+
+<h3 align="left">IDEs:</h3>
+<p align="left">
+  Jupyter, Spyder, R Studio, PyCharm.
+</p>
+
 
 
 <!--
