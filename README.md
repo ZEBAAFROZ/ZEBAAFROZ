@@ -2,9 +2,9 @@
 
 # Welcome to My GitHub Profile!
 
-![Profile Banner](https://path_to_your_banner_image)
+Hello there! I'm Zeba Afroz, and I'm excited to connect with you through my GitHub profile. As a passionate and curious researcher with a strong foundation in electronics, communication, and artificial intelligence, I've embarked on an incredible journey to explore the realms of machine learning and deep learning.
 
-Hello there! I'm [Your Name], and I'm excited to connect with you through my GitHub profile. As a passionate and curious researcher with a strong foundation in electronics, communication, and artificial intelligence, I've embarked on an incredible journey to explore the realms of machine learning and deep learning.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 ## About Me
 
@@ -26,7 +26,7 @@ As I continue on this exhilarating path, I'm determined to expand the horizons o
 
 Let's embark on this journey of discovery together—because the potential of AI and deep learning is boundless.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) | Follow me on [Twitter](https://twitter.com/yourhandle) | Visit my [Personal Website](https://www.yourwebsite.com)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/zeba-afroz-676390186/) | Follow me on [Github](https://github.com/ZEBAAFROZ) 
 
 Looking forward to learning, sharing, and growing with you all! 🚀
 
