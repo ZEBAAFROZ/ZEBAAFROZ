@@ -42,35 +42,27 @@ Looking forward to learning, sharing, and growing with you all! 🚀
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <!-- ... Other tools -->
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pandas-dev/pandas-dev-icon.svg" alt="Pandas" width="40" height="40"/>
-  <!-- ... More tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="R Studio" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/spyder-ide/spyder-ide-icon.svg" alt="Spyder" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pycharm/pycharm-icon.svg" alt="PyCharm" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/xgboost/xgboost-icon.svg" alt="XGBoost" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/azure/azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/seaborn/seaborn-icon.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" alt="Keras" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/spacy/spacy-icon.svg" alt="Spacy" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nltk/nltk-icon.svg" alt="NLTK" width="40" height="40"/>
 </p>
 
-<h3 align="left">Technical Stack:</h3>
-<p align="left">
-  Python, R, Pandas, Numpy, Scikit-learn, XGBoost, Azure, SQL, Matplotlib, Seaborn, Keras,
-  TensorFlow, PyTorch, Spacy, NLTK.
-</p>
-
-<h3 align="left">IDEs:</h3>
-<p align="left">
-  Jupyter, Spyder, R Studio, PyCharm.
-</p>
 
 
 
