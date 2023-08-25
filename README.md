@@ -4,7 +4,7 @@
 
 Hello there! I'm Zeba Afroz, and I'm excited to connect with you through my GitHub profile. As a passionate and curious researcher with a strong foundation in electronics, communication, and artificial intelligence, I've embarked on an incredible journey to explore the realms of machine learning and deep learning.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZEBAAFROZ&theme=dark&show_icons=true)
 
 ## About Me
 
