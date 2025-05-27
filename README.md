@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zeba Afroz</h1>
 <h3 align="center">Hello there! I'm excited to connect with you through my GitHub profile. As a passionate and curious researcher with a strong foundation in machine learning and deep learning, I've embarked on an incredible journey to explore the realms of Artificial Intelligence.</h3>
 
-- 🔭 I’m currently working on Multimodal eXplainable AI
-- 🎓 Studies for Master's of Artificial Intelligence at Nitttr, Chandigarh
+- 🔭 I’m working on a Computational social system (Propaganda).
+- 🎓 Pursuing PhD from Indraprastha Institute of Information Technology Delhi.
 - 👯 I’m looking to collaborate on open source projects
   
 
